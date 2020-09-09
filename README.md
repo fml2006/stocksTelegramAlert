@@ -1,6 +1,7 @@
 BOT DE ALERTAS EN TELEGRAM
 
 FUNCIONMIENTO:
+
  1- Crea Base de Datos y tablas automaticamente
  2- Obtiene de Yfinance los datos
  3- Calcula y guarda el indicador CCI y volumen promedio en timeframe de 1hora
