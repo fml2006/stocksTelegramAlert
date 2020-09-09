@@ -1,6 +1,6 @@
 # BOT DE ALERTAS EN TELEGRAM
 
-[![N|Solid] FUNCIONAMIENTO:
+FUNCIONAMIENTO:
 
  1- Crea Base de Datos y tablas automaticamente
  2- Obtiene de Yfinance los datos
@@ -42,5 +42,5 @@ python echobot.py
 ```
 Caulquier duda estoy a disposición ya sea para cualquier duda o iniciar algun proyecto en conjunto. 
 
-#FACUNDO MATIAS LEMOS
+# FACUNDO MATIAS LEMOS
 [https://twitter.com/fml2712]
