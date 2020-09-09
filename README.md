@@ -1,6 +1,6 @@
-BOT DE ALERTAS EN TELEGRAM
+# BOT DE ALERTAS EN TELEGRAM
 
-FUNCIONMIENTO:
+[![N|Solid] FUNCIONAMIENTO:
 
  1- Crea Base de Datos y tablas automaticamente
  2- Obtiene de Yfinance los datos
@@ -18,11 +18,13 @@ Librerias usadas
  datetime
 
 Comando de instalacion
+```sh
  pip install SQLAlchemy
  pip install PyMySQL
  pip install yfinance
  pip install numpy
  pip install pandas
+```
 
 Instalacion de Libreria Telegam
  pip install python-telegram-bot
@@ -35,8 +37,10 @@ Chequear la funcion connectDB() en functions.py es donde crea la Base de datos.
 El proyecto fue desarrollado de forma dinamica para que sea facilmente escalarlo o modificarlo.
 
 PARA INICIAR EL PROYECTO EN CONSOLA SE DEBERA CORRER EL SIGUIENTE COMANDO ( siempre estando dentro de la carpeta del proyecto )
+```sh
 python echobot.py
-
+```
 Caulquier duda estoy a disposición ya sea para cualquier duda o iniciar algun proyecto en conjunto. 
 
-#FACUNDO MATIAS LEMOS 
+#FACUNDO MATIAS LEMOS
+[https://twitter.com/fml2712][PlDb]
