@@ -1,12 +1,12 @@
 #BOT DE ALERTAS EN TELEGRAM
 
 #FUNCIONMIENTO
-# 1- Crea Base de Datos y tablas automaticamente
-# 2- Obtiene de Yfinance los datos
-# 3- Calcula y guarda el indicador CCI y volumen promedio en timeframe de 1hora
-# 4- Desde telegram con enviar /start inicia, con /alert envia los tickers que cumplan la condicion de CCI ( debajo de la linea de 0 ) y si se envia el ticker devuelve el precio de cierre. 
-# Solo tiene seteadas un puñado de tickers se puden sumar mas en screener.py
-#
+ 1- Crea Base de Datos y tablas automaticamente
+ 2- Obtiene de Yfinance los datos
+ 3- Calcula y guarda el indicador CCI y volumen promedio en timeframe de 1hora
+ 4- Desde telegram con enviar /start inicia, con /alert envia los tickers que cumplan la condicion de CCI ( debajo de la linea de 0 ) y si se envia el ticker devuelve el precio de cierre. 
+ Solo tiene seteadas un puñado de tickers se puden sumar mas en screener.py
+
 
 #Librerias usadas
 pandas
