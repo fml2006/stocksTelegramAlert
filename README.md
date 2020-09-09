@@ -43,4 +43,4 @@ python echobot.py
 Caulquier duda estoy a disposición ya sea para cualquier duda o iniciar algun proyecto en conjunto. 
 
 #FACUNDO MATIAS LEMOS
-[https://twitter.com/fml2712][PlDb]
+[https://twitter.com/fml2712]
